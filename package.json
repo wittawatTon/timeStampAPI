@@ -1,10 +1,13 @@
 {
-  "name": "fcc-api-projects-boilerplate",
-  "version": "0.0.1",
+	"name": "time_stamp_api",
+	"author": "Wittawat Na Ranong",
+	"keywords": [ "freecodecamp", "Train Project","Time stamp" ],
+	"license": "MIT",
+	"version": "1.1.0",
   "description": "An FCC Backend Challenge",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node --watch index.js"
   },
   "dependencies": {
     "express": "^4.12.4",
@@ -12,17 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/wittawatTon/timeStampAPI.git"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
-  "keywords": [
-    "node",
-    "express",
-    "freeCodeCamp"
-  ],
-  "license": "MIT"
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme"
+
 }
